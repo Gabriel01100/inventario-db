@@ -11,8 +11,8 @@ conceptos fundamentales de administración de bases de datos: diseño, consultas
 La base cuenta con las siguientes tablas principales:
 
 - **productos**: información de los artículos.
-- **categorias**: clasificación de productos.
-- **movimientos_stock**: entradas y salidas de stock.
+- **category**: clasificación de productos.
+- **moves_stock**: entradas y salidas de stock.
 
 ## SQL
 
